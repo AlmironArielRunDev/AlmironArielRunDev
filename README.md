@@ -1,7 +1,6 @@
 <h1> Hola soy < Almirón Ariel/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+Perfil+de+Github!;Analísta+de+Sistemas;Desarrollador+Front+End" /></a>
 </p>
@@ -13,30 +12,20 @@
    <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-
-  <br>
-  <br>
   
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 TÉCNICO SUPERIOR EN ANÁLISIS DE SISTEMAS && DESARROLLADOR FRONT END 
-
+🎓 TÉCNICO SUPERIOR EN ANÁLISIS DE SISTEMAS & DESARROLLADOR FRONT END 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **Almironariel@gmail.com**
+📫 Portafolio: **https://almironarielrundev.github.io/portafolio**
+📫 LinkedIn: **www.linkedin.com/in/arielalmiron2070**
 <!--Intro end-->
   </p>
 <br>
