@@ -5,7 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+Perfil+de+Github!;Analísta+de+Sistemas;Desarrollador+Front+End" /></a>
 </p>
 
-   <br>
    <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
@@ -19,9 +18,9 @@
 
 <p align="left">
 🎓 TÉCNICO SUPERIOR EN ANÁLISIS DE SISTEMAS & DESARROLLADOR FRONT END <br>
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia <br>
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈) <br>
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️ <br>
+🎥 Apasionado por las últimas tecnologías y en constante crecimiento 📚 en base a mucho estudio 😵 y experiencia <br>
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software <br>
+📝 roles en el ámbito: desarrollador... líder... ... emprendedor... programador freelance... y en un futuro quién sabe ☺️ <br>
 
 📫 Contacto: **Almironariel@gmail.com**  <br>
 :briefcase: Portafolio: **https://almironarielrundev.github.io/portafolio** <br>
