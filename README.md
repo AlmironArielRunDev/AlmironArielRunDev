@@ -20,7 +20,7 @@
 🎓 TÉCNICO SUPERIOR EN ANÁLISIS DE SISTEMAS & DESARROLLADOR FRONT END <br>
 🎥 Apasionado por las últimas tecnologías y en constante crecimiento 📚 en base a mucho estudio 😵 y experiencia <br>
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software <br>
-📝 roles en el ámbito: desarrollador... líder... ... emprendedor... programador freelance... y en un futuro quién sabe ☺️ <br>
+📝 roles en el ámbito: desarrollador... líder... Soporte Técnico... programador freelance... ☺️ <br>
 
 📫 Contacto: **Almironariel@gmail.com**  <br>
 :briefcase: Portafolio: **https://almironarielrundev.github.io/portafolio** <br>
