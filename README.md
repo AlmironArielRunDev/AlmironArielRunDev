@@ -22,7 +22,7 @@
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software <br>
 📝 roles en el ámbito: desarrollador... líder... Soporte Técnico... programador freelance... ☺️ <br>
 
-📫 Contacto: **Almironariel@gmail.com**  <br>
+📫 Contacto: **Almironariel2070@gmail.com**  <br>
 :briefcase: Portafolio: **https://almironarielrundev.github.io/portafolio** <br>
 🚀 LinkedIn: **www.linkedin.com/in/arielalmiron2070** <br>
 <!--Intro end-->
