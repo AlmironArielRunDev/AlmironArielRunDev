@@ -5,10 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+Perfil+de+Github!;Analísta+de+Sistemas;Desarrollador+Front+End" /></a>
 </p>
 
-   <a href="www.linkedin.com/in/arielalmiron2070" target="_blank">
+   <a href="https://www.linkedin.com/in/arielalmiron2070" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="#a" target="_blank">
+   <a href="#" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
   
@@ -24,7 +24,7 @@
 
 📫 Contacto: **Almironariel2070@gmail.com**  <br>
 :briefcase: Portafolio: **https://almironarielrundev.github.io/portafolio** <br>
-🚀 LinkedIn: **www.linkedin.com/in/arielalmiron2070** <br>
+🚀 LinkedIn: **https://www.linkedin.com/in/arielalmiron2070** <br>
 <!--Intro end-->
   </p>
 <br>
